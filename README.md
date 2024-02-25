@@ -1,0 +1,2 @@
+# deffo
+just testnet
